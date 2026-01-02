@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hi, I'm Timofey Zhamoidin
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a Software Engineer specializing in backend development and distributed systems, with a focus on high-performance C++ and Python development for large-scale services.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently, I work at **Yandex** on the Search as a Service team, where I architect distributed indexing systems serving 700+ internal services. Previously, I worked on YTSaurus (handling 3 EB of data) and voice technology infrastructure serving 57 million users.
 
+I'm passionate about:
+- Algorithm optimization and performance tuning
+- Distributed systems and infrastructure engineering
+- Building reliable, scalable backend services
 
-[jekyll-organization]: https://github.com/jekyll
+### Background
+
+I'm currently pursuing a degree in Computer Science at the **Yandex School of Data Analysis** (Big Data Track) and completing my Bachelor's at the **Higher School of Economics** in Moscow.
+
+### Connect
+
+- **GitHub**: [github.com/h0tmi](https://github.com/h0tmi)
+- **Twitter**: [twitter.com/timzhamoidin](https://twitter.com/timzhamoidin)
+- **Email**: timofeyzhamoidin@gmail.com
+- **Personal Blog**: [t.me/loopynerd](https://t.me/loopynerd) - I write about software engineering, distributed systems, and algorithm optimizations
+- **Codeforces**: [codeforces](https://codeforces.com/profile/h0tmi)
+
+Feel free to reach out if you want to discuss software engineering, distributed systems, or just connect!
