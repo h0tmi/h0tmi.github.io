@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello internet!"
+title:  "Hi!"
 date:   2026-01-02 01:08:15 +0100
 categories: jekyll update
 ---
